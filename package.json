@@ -1,0 +1,33 @@
+{
+  "name": "express-es6-rest-api-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for a REST API in Microservices using ExpressJs, Mongoose, NodeJS and Docker, with CI/CD.",
+  "main": "server.js",
+  "scripts": {
+    "start":"node service.js",
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/Matti-Saemi/express-es6-rest-api-boilerplate.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "docker",
+    "ci/cd",
+    "unit",
+    "testing",
+    "microservices"
+  ],
+  "author": "matti.saemi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matti-Saemi/express-es6-rest-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Matti-Saemi/express-es6-rest-api-boilerplate#readme"
+}
